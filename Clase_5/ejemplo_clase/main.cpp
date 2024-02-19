@@ -38,7 +38,7 @@ int main(){
    }
 
    n /= m; // n = n / m -> 120 / 9 -> 13.3333 -> 13
-   cout<<"N: "<<n<<endl; */
+   cout<<"N: "<<n<<endl;
 
    float aa, bb;
    cin>>aa;
