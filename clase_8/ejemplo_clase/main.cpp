@@ -1,3 +1,4 @@
+#include<iostream>
 #include "lib.hpp"
 
 using std::cin;
