@@ -1,4 +1,6 @@
-#include"lib.hpp"
+#include<string>
+
+using std::string;
 
 bool busquedaSubString(string frase, string word){
     char* ptr = &frase.at(0);
