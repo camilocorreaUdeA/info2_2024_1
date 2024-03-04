@@ -1,6 +1,6 @@
 #ifndef _MI_CLASE_HPP_
 #define _MI_CLASE_HPP_
-#include<iostream>
+#include<string>
 using std::string;
 
 class MiClase {
